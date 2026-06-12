@@ -36,5 +36,5 @@ Long-term learning and project path focused on IBM Quantum, Qiskit, PennyLane, a
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/charlie-groll-98648229b/
+- LinkedIn: https://www.linkedin.com/in/charlie-groll/
 - Email: charliegroll04@gmail.com
