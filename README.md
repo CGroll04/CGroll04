@@ -1,40 +1,40 @@
-# Hi, I'm Charlie
+Hi, I’m Charlie
 
-I'm a Computer Engineering student at Queen's University and a Software Developer Intern at IBM Consulting. I’m interested in building practical software products, AI-assisted tools, and quantum software systems.
+I’m a Computer Engineering student at Queen’s University and a Software Developer Intern at IBM Consulting. I build practical software products, AI-assisted tools, and quantum-focused projects.
 
-My main project is **SweetSpots**, an iOS app that helps users save places they discover online, organize them into collections, view them on a map, and get proximity reminders when nearby.
+My main project is SweetSpots, a released iOS app for saving, organizing, mapping, and revisiting places discovered online.
 
-## What I'm focused on
+Focus Areas
 
-- iOS development with Swift / SwiftUI
-- AI-assisted developer tools and automation
-- Firebase-backed mobile apps
-- Quantum computing from a software engineering perspective
-- Optimization, cloud platforms, and developer tooling
+* iOS development with Swift / SwiftUI
+* AI-assisted developer tools and automation
+* Firebase-backed mobile apps
+* Quantum software, Qiskit, and optimization
+* Cloud platforms, backend systems, and developer tooling
 
-## Featured Projects
+Featured Work
 
-### SweetSpots
+SweetSpots
 
-A released iOS app that turns online place discoveries into real-world experiences by letting users save, organize, map, and revisit places they find online.
+Released iOS app that helps users save places from social media, organize them into collections, view them on a map, and get proximity reminders when nearby.
 
-### Quantum Computing Learning Journey
+IDAN Knights Quest
 
-A long-term learning and project track focused on quantum fundamentals, Qiskit, algorithms, optimization, and hybrid quantum-classical systems.
+Motion-controlled hackathon game built with Python, Pygame, Arduino, and IMU sensor input.
 
-### AI / Software Projects
+Quantum Software Track
 
-Projects exploring applied AI, backend systems, automation, and product-focused software development.
+Long-term learning and project path focused on IBM Quantum, Qiskit, PennyLane, algorithms, optimization, and hybrid quantum-classical systems.
 
-## Currently Learning
+Currently Building Toward
 
-- Qiskit and IBM Quantum
-- Quantum algorithms and optimization
-- PennyLane
-- AI engineering
-- Scalable app architecture
+* Quantum software engineering
+* Qiskit and IBM Quantum
+* PennyLane and hybrid quantum-classical models
+* AI tooling and automation
+* Scalable mobile and cloud-backed applications
 
-## Connect
+Connect
 
-- LinkedIn: https://www.linkedin.com/in/charlie-groll-98648229b/
-- Email: charliegroll04@gmail.com
+* LinkedIn: https://www.linkedin.com/in/charlie-groll-98648229b/
+* Email: charliegroll04@gmail.com
