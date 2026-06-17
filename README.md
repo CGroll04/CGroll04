@@ -18,6 +18,9 @@ My main project is **SweetSpots**, a released iOS app for saving, organizing, ma
 
 Released iOS app that helps users save places from social media, organize them into collections, view them on a map, and get proximity reminders when nearby.
 
+### Spotify Release Tracker
+Python automation tool that tracks Spotify artist releases from a playlist and sends Telegram alerts for albums, singles, and guest features.
+
 ### IDAN Knights Quest
 
 Motion-controlled hackathon game built with Python, Pygame, Arduino, and IMU sensor input.
