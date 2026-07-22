@@ -1,6 +1,6 @@
 # Hi, I'm Charlie
 
-I'm a Computer Engineering student at Queen's University and a Software Developer Intern at IBM Consulting. I build practical software products, AI-assisted tools, and quantum-focused projects.
+I'm a Computer Engineering student at Queen's University and a Developer Intern at IBM Consulting. I build practical software products and applied AI tools.
 
 My main project is **SweetSpots**, a released iOS app for saving, organizing, mapping, and revisiting places discovered online.
 
