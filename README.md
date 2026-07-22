@@ -1,43 +1,36 @@
 # Hi, I'm Charlie
 
-I'm a Computer Engineering student at Queen's University and a Developer Intern at IBM Consulting. I build practical software products and applied AI tools.
-
-My main project is **SweetSpots**, a released iOS app for saving, organizing, mapping, and revisiting places discovered online.
-
-## Focus Areas
-
-- iOS development with Swift / SwiftUI
-- AI-assisted developer tools and automation
-- Firebase-backed mobile apps
-- Quantum software, Qiskit, and optimization
-- Cloud platforms, backend systems, and developer tooling
+I'm a final-year Computer Engineering student at Queen's University and a Developer Intern at IBM Consulting. I build practical software products and applied AI tools.
 
 ## Featured Work
 
 ### SweetSpots
 
-Released iOS app that helps users save places from social media, organize them into collections, view them on a map, and get proximity reminders when nearby.
+[App Store](https://apps.apple.com/ca/app/sweetspots/id6747997071) · [Website](https://thesweetspotsapp.com) · [Public website repository](https://github.com/CGroll04/SweetSpotsWebsite)
+
+Co-founder and sole iOS developer of a released app for saving, organizing, mapping, and sharing places.
+
+- Built the native iOS app with Swift and SwiftUI
+- Implemented Firebase authentication, Firestore data models, collection cover storage, MapKit search and directions, deep links, a share extension, and proximity reminders
+- Released in October 2025 and continue to maintain it
+- Reached 492 first-time downloads and 300+ registered accounts as of July 2026
 
 ### Spotify Release Tracker
-Python automation tool that tracks Spotify artist releases from a playlist and sends Telegram alerts for albums, singles, and guest features.
 
-### IDAN Knights Quest
+[Repository](https://github.com/CGroll04/spotify-release-tracker)
 
-Motion-controlled hackathon game built with Python, Pygame, Arduino, and IMU sensor input.
+Python automation tool that tracks releases from a Spotify playlist and sends Telegram alerts for albums, singles, and guest features.
 
-### Quantum Software Track
+- Implemented Spotify OAuth, API pagination, rate-limit handling, persistent local state, release deduplication, and Telegram notifications
+- Created it to solve a personal problem with missing new releases and featured appearances
 
-Long-term learning and project path focused on IBM Quantum, Qiskit, PennyLane, algorithms, optimization, and hybrid quantum-classical systems.
+## Experience and Interests
 
-## Currently Building Toward
+At IBM Consulting, I contribute to client and internal applied-AI workflows and developer tooling. Client and internal source code remains private.
 
-- Quantum software engineering
-- Qiskit and IBM Quantum
-- PennyLane and hybrid quantum-classical models
-- AI tooling and automation
-- Scalable mobile and cloud-backed applications
+I'm especially interested in software products, applied AI, developer tools, cloud platforms, and high-level quantum software. I have been a Qiskit Advocate since June 2026.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/charlie-groll/
+- [LinkedIn](https://www.linkedin.com/in/charlie-groll/)
 - Email: charliegroll04@gmail.com
