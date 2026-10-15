@@ -1,36 +1,31 @@
 # Hi, I'm Charlie
 
-I'm a final-year Computer Engineering student at Queen's University and a Developer Intern at IBM Consulting. I build practical software products and applied AI tools.
+I'm a final-year Computer Engineering student at Queen's University, graduating in May 2027. After a 12-month Developer internship at IBM Consulting, I stayed with the same team part-time as Student On Call.
 
-## Featured Work
+**[Portfolio and resumes](https://cgroll04.github.io/)** · [LinkedIn](https://www.linkedin.com/in/charlie-groll/)
+
+## Selected Work
 
 ### SweetSpots
 
-[App Store](https://apps.apple.com/ca/app/sweetspots/id6747997071) · [Website](https://thesweetspotsapp.com) · [Public website repository](https://github.com/CGroll04/SweetSpotsWebsite)
+Co-founder and sole iOS developer of a native Swift/SwiftUI app for saving, organizing, mapping, and sharing places. Released on the App Store in October 2025 and actively maintained.
 
-Co-founder and sole iOS developer of a released app for saving, organizing, mapping, and sharing places.
+**508 first-time App Store downloads · 318 registered accounts as of October 2026.**
 
-- Built the native iOS app with Swift and SwiftUI
-- Implemented Firebase authentication, Firestore data models, collection cover storage, MapKit search and directions, deep links, a share extension, and proximity reminders
-- Released in October 2025 and continue to maintain it
-- Reached 492 first-time downloads and 300+ registered accounts as of July 2026
+[App Store](https://apps.apple.com/ca/app/sweetspots/id6747997071) · [Product website](https://thesweetspotsapp.com) · [Website repository](https://github.com/CGroll04/SweetSpotsWebsite)
+
+The iOS app's source code is private. The public repository linked above contains the product website, not the iOS application.
 
 ### Spotify Release Tracker
 
-[Repository](https://github.com/CGroll04/spotify-release-tracker)
+A Python tool that tracks releases from Spotify playlist artists and sends Telegram alerts for albums, singles, and guest features. Includes OAuth, API pagination, rate-limit handling, release deduplication, and persistent local state.
 
-Python automation tool that tracks releases from a Spotify playlist and sends Telegram alerts for albums, singles, and guest features.
+[Public repository and setup](https://github.com/CGroll04/spotify-release-tracker)
 
-- Implemented Spotify OAuth, API pagination, rate-limit handling, persistent local state, release deduplication, and Telegram notifications
-- Created it to solve a personal problem with missing new releases and featured appearances
+## Professional Work and Interests
 
-## Experience and Interests
+At IBM Consulting, I built and integrated a multi-agent intent router for a client chatbot and deployed a human-in-the-loop AI workflow used by IBM consultants. Employer and client source code remains private.
 
-At IBM Consulting, I contribute to client and internal applied-AI workflows and developer tooling. Client and internal source code remains private.
+I'm interested in software products, applied AI, developer tools, cloud platforms, and high-level quantum software. I've been a Qiskit Advocate since June 2026.
 
-I'm especially interested in software products, applied AI, developer tools, cloud platforms, and high-level quantum software. I have been a Qiskit Advocate since June 2026.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/charlie-groll/)
-- Email: charliegroll04@gmail.com
+Email: charliegroll04@gmail.com
